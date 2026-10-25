@@ -224,3 +224,5 @@ __marimo__/
 *.tar.gz
 data/
 datasets/
+*.csv 
+*.zip 
